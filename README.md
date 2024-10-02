@@ -2,13 +2,13 @@
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=cpojha&show_icons=true&hide_title=true&theme=merko">
 
-I'm a Back-End Developer and Student!!
+I'm a Full Stack Developer and Student!!
 
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with developers.
 
-- 🎈 I’m currently learning Discord.js and Design
+- 🎈 I’m currently learning React Native.
 
-- ⚡ Fun fact: I love to play Minecraft and pubg mobile
+- ⚡ Fun fact: I love to play Minecraft.
 
 [🐦 discord](https://https://discord.com/users/597435632117088267) | [🏡 instagram](https://www.instagram.com/ig_pikathegreat)
 
