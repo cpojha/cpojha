@@ -8,7 +8,7 @@ I'm a Full Stack Developer and Student!!
 
 - 🎈 I’m currently learning React Native.
 
-- ⚡ Fun fact: I love to play Minecraft.
+  
 
 [🐦 discord](https://https://discord.com/users/597435632117088267) | [🏡 instagram](https://www.instagram.com/ig_pikathegreat)
 
