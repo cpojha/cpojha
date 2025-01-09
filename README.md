@@ -2,14 +2,17 @@
     <img src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" width="50%" alt="Banner">
 </p>
 
-<h1 align="center">
-    <strong> Hi 👋, I'm Chandra Prakash Ojha </strong>
-</h1>
-<br>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F72585&center=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Chandra+Prakash+Ojha!;A+Full-Stack+Developer+and+Open-Source+Enthusiast!;Exploring+new+technologies+everyday." alt="Typing Animation">
+</p>
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 About Me  
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="40%">
+</p>
+
 - 🌱 Currently mastering **Full-Stack Web Development**.  
 - 🔭 Passionate about **Open Source Contributions** and **Innovative Projects**.  
 - 🎨 Advocate for **Community Building** and **Tech Education**.  
@@ -53,9 +56,6 @@
   </a>
   <a href="https://twitter.com/chandraOjha" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://github.com/cpojha" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
